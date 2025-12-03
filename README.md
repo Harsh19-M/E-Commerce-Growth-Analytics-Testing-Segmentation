@@ -1,6 +1,6 @@
 # E-Commerce Growth Analytics: A/B Testing & Customer Persona Segmentation
 
-### **Note:** This project uses a mock dataset designed to simulate realistic performance. Company names and figures are for demonstration purposes only.
+**Note:** This project uses a mock dataset designed to simulate realistic performance. Company names and figures are for demonstration purposes only.
 
 ## Key Highlights
 
