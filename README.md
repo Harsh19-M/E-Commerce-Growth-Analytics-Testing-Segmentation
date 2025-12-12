@@ -3,7 +3,7 @@
 **Note:** This project uses a mock dataset designed to simulate realistic performance. Company names and figures are for demonstration purposes only. 
 
 ## Key Highlights
-
+- **PostgreSQL Data Aggregation & Cleaning:** Built a clean, analysis-ready table by combining sessions, users, orders, and experiments tables using CTEs; handled boolean        event tracking, null values (COALESCE), distinct counts, and filtered counts (COUNT(*) FILTER) to accurately capture clicks, add-to-cart actions, completed purchases,        and orders; ensured proper session-level aggregation for A/B test analysis, ready for downstream Python analysis and modeling.
 
 
 ## Tools & Skills
